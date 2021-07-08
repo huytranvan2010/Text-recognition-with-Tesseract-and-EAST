@@ -1,3 +1,5 @@
+# Hướng dẫn chạy
+# python text_recognition.py --image images/example_01.jpg
 import pytesseract
 import argparse
 import cv2
